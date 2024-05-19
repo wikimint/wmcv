@@ -1,6 +1,6 @@
 ---
 title: "My First Blog Post"
-date: 2024-05-19
+permalink: /selvakumaran
 ---
 
 # My First Blog Post
