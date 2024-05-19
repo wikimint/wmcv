@@ -1,6 +1,9 @@
 name: Fetch Posts
 
 on:
+push:
+    branches:
+      - main  # Trigger the workflow on each commit to the main branch
   schedule:
     - cron: '0 0 * * *'  # Schedule to run every day at midnight UTC
 
