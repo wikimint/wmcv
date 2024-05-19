@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Directory where your Jekyll site is located
-SITE_DIR="/posts"
+SITE_DIR=""
 
 # Remote repository URL where your posts are hosted
 REMOTE_REPO_URL="https://github.com/wikimint/cv.git"
