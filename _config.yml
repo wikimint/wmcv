@@ -1,16 +1,11 @@
 title: "CV - A hub of work profiles showcase your skills, experience, achievements"
 description: "Create a comprehensive work profile by building a secure online CV hub. Showcase your professional achievements, skills, and career goals."
 url: "https://cv.wikimint.com"
-
 baseurl: ""  # Leave empty if your site is at the root of the domain
 
 # Permalink configuration
-permalink: /:name
+permalink: /:path
 
-# Specify the repository URL for posts
-remote_posts: https://github.com/wikimint/cv.git
-
-# Other configurations
 markdown: kramdown
 theme: minima
 exclude: ["node_modules", "vendor/bundle/"]
