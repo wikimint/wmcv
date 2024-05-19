@@ -1,44 +1,15 @@
 title: "CV - A hub of work profiles showcase your skills, experience, achievements"
 description: "Create a comprehensive work profile by building a secure online CV hub. Showcase your professional achievements, skills, and career goals."
 url: "https://cv.wikimint.com"
-baseurl: "/"
 
 permalink: /:title
 
 paginate: 5
 paginate_path: "/page/:num/"
 
-collections:
-  docs:
-    output: true
-
-defaults:
-  - scope:
-      path: ""
-      type: "cv"
-    values:
-      layout: "cv"
-      author: "Wikimint CV"
-
-kramdown:
-  input: GFM
-  auto_ids: true
-  toc_levels: 1..6
-  hard_wrap: false
-
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-
-exclude:
-  - "node_modules"
-  - "vendor/bundle/"
 
 include:
   - ".htaccess"
 
 timezone: "America/New_York"
 
-# Custom Variables
-my_variable: "Some value"
-another_variable: "Another value"
