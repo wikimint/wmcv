@@ -1,0 +1,19 @@
+name: Fetch Posts
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Schedule to run every day at midnight UTC
+
+jobs:
+  fetch-posts:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout main repository
+        uses: actions/checkout@v2
+      
+      - name: Clone remote repository
+        run: git clone https://github.com/wikimint/cv.git /tmp/posts
+
+      - name: Copy posts
+        run: cp -r /tmp/posts/* ./_posts/
