@@ -5,7 +5,7 @@
 layout: home
 ---
 <h2>Latest Posts:</h2>
-
+Test
 <ul>
   {% for post in site.posts %}
     <li>
