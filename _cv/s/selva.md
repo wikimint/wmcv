@@ -1,4 +1,5 @@
 ---
+layout: cv
 title: "My First Blog Post"
 ---
 
