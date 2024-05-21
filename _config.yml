@@ -1,6 +1,6 @@
-title: Your awesome title
+title: myProfile
 author:
-  name: GitHub User
+  name: Wikimint CV
   email: your-email@domain.com
 
 # The `>` after `description:` means to ignore line-breaks until next key.
@@ -15,6 +15,7 @@ collections:
   posts:
     output: true
     permalink: /:title
+
 # If you clone the Minima repo and build locally, use this setting.
 theme: minima
 
@@ -22,6 +23,9 @@ theme: minima
 # If you want to use the latest Minima version on GitHub Pages, use the following setting and 
 # add a line comment on "theme: minima" above.
 #remote_theme: jekyll/minima
+
+markdown: kramdown
+
 
 plugins:
   - jekyll-feed
