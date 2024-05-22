@@ -1,7 +1,7 @@
 ---
 layout: post
 title: >
-    Some articles are just so short that we have to make the footer stick
+        Selvakumaran Krishnan
 name: >
     Selvakumaran Krishnan
 role: >
@@ -46,16 +46,20 @@ edu_desc: >
 
 exp:
   - t: Software Engineer
-    c: Sisar
+    c: Sisar, Sagous, Stafide
     d: 2023 - Present
-    s: Software engineer handling multiple websites. Software engineer handling multiple websites.Software engineer handling multiple websites.
-    b: <p>Software engineer handling multiple websites. Software engineer handling multiple websites.Software engineer handling multiple websites.Software engineer handling multiple websites. Software engineer handling multiple websites.Software engineer handling multiple websites.</p><p>Software engineer handling multiple websites. Software engineer handling multiple websites.Software engineer handling multiple websites.Software engineer handling multiple websites. Software engineer handling multiple websites.Software engineer handling multiple websites.</p><p>Software engineer handling multiple websites. Software engineer handling multiple websites.Software engineer handling multiple websites.</p>
-  - t: Another Title
-    c: Another Company
-    d: 2021 - 2023
-    s: Software engineer handling multiple websites. Software engineer handling multiple websites.Software engineer handling multiple websites.Software engineer handling multiple websites. Software engineer handling multiple websites.Software engineer handling multiple websites.
-    b: <p>Software engineer handling multiple websites. Software engineer handling multiple websites.Software engineer handling multiple websites.Software engineer handling multiple websites. Software engineer handling multiple websites.Software engineer handling multiple websites.</p><p>Software engineer handling multiple websites. Software engineer handling multiple websites.Software engineer handling multiple websites.Software engineer handling multiple websites. Software engineer handling multiple websites.Software engineer handling multiple websites.</p><p>Software engineer handling multiple websites. Software engineer handling multiple websites.Software engineer handling multiple websites.</p>
-
+    s: WordPress, Front-end UI of web apps like HRMS in laravel and low-code development projects.
+    b: <p>Managing company website, wordpress development, on-page and off-page SEO, making website customization as per requirements from other departments. Customization in HTML, CSS, JavaScript. WordPress theme customization as per special requirements from marketing team.</p><p>Worked along with a team of Laravel development project. Handled end-to-end front-end development of web apps such as HRMS and more. Handled front-end part of low-code platform. Complete UI customization using CSS and JavaScript.</p>
+  - t: Data Entry Operator
+    c: Eagle Software, Jayam Computers
+    d: 2010 - 5 months
+    s: Data entry, handling a crowd of people for data capturing, handling computer equipments like finger-print capturing, webcam, etc.
+    b: <p>Field work project for <strong>Kalaignar Insurance Scheme</strong> and <strong>Start Health Insurance</strong>. I along with my team members handled data capturing throught the entire district of Ariyalur in Tamilnadu. On daily basis, throughout the project tenure, we were camping at respective government schools for capturing data of each family, who were visiting schools for registration.</p><p>Keeping the ration card as an identity of each family, we verfied them and captured data like finger-prints and photographs.</p><p>I worked there throught the entire project till completion. After completion, I and some of our team members were invited to join Jayam Computers, Chennai for on-site data entry oppurtunity.</p>
+  - t: Computer Service Executive
+    c: JNF Computers
+    d: 2013 - 1 year
+    s: OS installation, computer assembling, hardware and software troubleshooting, custom software installation, analysing software dependencies and providing solution, browsing and DTP works.
+    b: <p>Worked in an internet cafe where handled computer sales and service and managed internet browsing center. Also, helped college students for their project works by finding suitable content on the internet and providing printed copies.</p><p>Managed to troubleshoot motherboards defectives and successfully restored many computers which were not working. Supplied brand new computers to many customers after complete assembling.</p><p>Appeared on certain contractual agreements on behalf of private and government organizations like District taluk office, Co-optex, hospitals, etc. Hardware troubleshooting, OS installation, customer specific software installation, analysing software dependency, virus removal, etc.</p><p>Handled data entry projects from taluk office and local panchayat unions regarding 100 days of Wage Employement. Managed to source jobs from government offices and follow up payments. Trained data entry operators to work on data-entry project that I sourced.</p>    
 
 ---
 
